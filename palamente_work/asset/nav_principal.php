@@ -14,48 +14,18 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
             <li class="animated fadeInLeft">
-                <a href="index.html">Actuellement</a>
-                <?php
-                if (strpos($_SERVER['HTTP_REFERER'], 'index.html'))
-                { ?>
-                	<center><img src="./SVG/vague bas.svg" style="width:60px; height:60px;"></center>
-                <?php
-                } ?>
+                <a href="index.html">Actuellement <br/><br/><input type="image" class="btn-img" src="SVG/vague bas.svg"/></a>
             <li class="animated fadeInLeft">
-              <a href="compagnie.html">La compagnie</a>
-                 <?php
-                if (strpos($_SERVER['HTTP_REFERER'], 'compagnie.html'))
-                { ?>
-             	<center><img src="./SVG/vague ht.svg" style="width:60px; height:60px;"></center>
-                <?php
-                } ?>
+              <a href="compagnie.html">La Compagnie <br/><br/><input type="image" class="btn-img" src="SVG/vague ht.svg"/></a>
             </li>
             <li class="animated fadeInUp">
-                <a href="spectacle.html">Spectacles</a>
-                <?php
-                if (strpos($_SERVER['HTTP_REFERER'], 'spectacle.html'))
-                { ?>
-                	<center><img src="./SVG/vague bas.svg" style="width:60px; height:60px;"></center>
-                <?php
-                } ?>
+                <a href="spectacle.html">Spectacles <br/><br/><input type="image" class="btn-img" src="SVG/vague bas.svg"/></a>
             </li>
             <li class="animated fadeInRight">
-                <a href="projet.html">Créations en cours</a>
-                <?php
-                if (strpos($_SERVER['HTTP_REFERER'], 'projet.html'))
-                { ?>
-                	<center><img src="./SVG/vague ht.svg" style="width:60px; height:60px;"></center>
-                <?php
-                } ?>
+                <a href="projet.html">Créations en cours <br/><br/><input type="image" class="btn-img" src="SVG/vague ht.svg"/></a>
             </li>
             <li class="animated fadeInRight">
-                <a href="contact.html#ancre_nav">Contacts</a>
-                <?php
-                if (strpos($_SERVER['HTTP_REFERER'], 'contact.html'))
-                { ?>
-                	<center><img src="./SVG/vague bas.svg" style="width:60px; height:60px;"></center>
-                <?php
-                } ?>
+                <a href="contact.html#ancre_nav">Contacts <br/><br/><input type="image" class="btn-img" src="SVG/vague bas.svg"/></a>
             </li>
         </ul>
     </div>
