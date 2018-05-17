@@ -3,16 +3,12 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     	<link rel="stylesheet" type="text/css" href="css/animate.css" />
         <style>
-				p {
-					  font-family: 'Josefin Sans',sans serif;
-					  font-size : 18 px;
-				}
 				body { 
-				font-family: 'Josefin Sans',sans serif;
-				font-size : 12px;
+				font-family: 'Raleway',sans serif;
+				font-size : 14px;
 				}
 		</style>
 	</head>
@@ -30,7 +26,7 @@
 		
 	</figure>
 
-	<img src="images/chemin_de_croisement/chemins de croisement 001.jpg">
+	<img src="images/chemin_de_croisement/chemin_de_croisement.svg">
 
 	<figure class="figure" style="display:inline">
 		<img id="jereve" style="cursor:pointer;" src="images/logoentendre.jpg" class="figure-img img-fluid rounded">
