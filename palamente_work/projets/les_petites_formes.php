@@ -11,7 +11,7 @@
 	<div class="col-sm-2">
 	<img src="images/chemin_de_croisement/Vitry 2.jpg">
 	</div>
-	<div class="col-sm-2">
+	<div class="col-sm-3">
 	<br/><br/><br/>
 	<figure class="figure" style="display:inline">
 		<figcaption class="figure-caption" style="display:inline">Dossier</figcaption>
