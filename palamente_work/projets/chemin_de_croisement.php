@@ -15,23 +15,28 @@
 
 	<body>
 <div class="col-md-12">
-	<div class="page-header">
-		<h1 class="titre">
-			Chemin de croisement
-		</h1>
-	</div>
-	<figure class="figure" style="display:inline">
-		<figcaption class="figure-caption" style="display:inline">Dossier</figcaption>
-		<a href="doc/chemin_de_croisement/dossier chemin de croisement - Mail.pdf"><img src="images/logodossier.jpg" class="figure-img img-fluid rounded"></a>
+<div class="page-header">
+    <h1 class="titre">
+        Chemin de croisement
+    </h1>
+</div>
 
-	</figure>
-
-	<img src="images/chemin_de_croisement/chemin_de_croisement.svg">
-
-	<figure class="figure" style="display:inline">
-		<img id="jereve" style="cursor:pointer;" src="images/logoentendre.jpg" class="figure-img img-fluid rounded">
-		<figcaption class="figure-caption" style="display:inline;">"Je rêve"</figcaption>
-	</figure>
+<div class="row">
+<div class="col-sm-8">
+<img src="images/chemin_de_croisement/chemin_de_croisement.svg">
+</div>
+<div class="col-sm-2">
+<br/><br/>
+   <figure class="figure" style="display:inline">
+    <figcaption class="figure-caption" style="display:inline">Dossier</figcaption>
+    <a href="doc/chemin_de_croisement/dossier chemin de croisement - Mail.pdf"><input type="image" class="btn-img" src="images/SVG/livre.svg"/></a>
+</figure>
+    <br/><br/>
+<figure class="figure" style="display:inline">
+    <figcaption class="figure-caption" style="display:inline;">Extrait sonore : "Je rêve"</figcaption>
+    <img id="jereve" style="cursor:pointer;" src="images/SVG/OREILLE.svg" class="btn-img">
+</figure>
+</div>
 </div>
 
 <div id="son_reve" class="col-md-12" style="display:none;">
