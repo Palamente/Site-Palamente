@@ -4,12 +4,25 @@
 			Les petites formes
 		</h1>
 	</div>
+
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-5"></div>
+	<div class="col-sm-2">
+	<img src="images/chemin_de_croisement/Vitry 2.jpg">
+	</div>
+	<div class="col-sm-2">
+	<br/><br/><br/>
 	<figure class="figure" style="display:inline">
 		<figcaption class="figure-caption" style="display:inline">Dossier</figcaption>
-		<a href="doc/les_petites_formes/Lecture Oulipo.pdf"><img src="images/logodossier.jpg" class="figure-img img-fluid rounded"></a>
-
+		<a href="doc/les_petites_formes/Lecture Oulipo.pdf"><input type="image" class="btn-img" src="images/SVG/livre.svg"/></a>
 	</figure>
-	<img src="images/chemin_de_croisement/Vitry 2.jpg">
+	</div>
+
+	</div>
+	<br/>
+	</div>
+
 </div>
 <div class="col-md-12">
 	<dl>
