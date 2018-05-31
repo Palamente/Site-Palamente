@@ -16,13 +16,13 @@
             <li class="animated fadeInLeft">
                 <a href="index.html">Actuellement <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
             <li class="animated fadeInLeft">
-              <a href="compagnie.html">La Compagnie <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg"/></a>
+              <a href="compagnie.html">La Compagnie <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg" style="margin-top:-25px;"/></a>
             </li>
             <li class="animated fadeInUp">
                 <a href="spectacle.html">Spectacles <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
             </li>
             <li class="animated fadeInRight">
-                <a href="projet.html">Créations en cours <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg"/></a>
+                <a href="projet.html">Créations en cours <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg" style="margin-top:-25px;"/></a>
             </li>
             <li class="animated fadeInRight">
                 <a href="contact.html#ancre_nav">Contacts <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
