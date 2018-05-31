@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
     	<link rel="stylesheet" type="text/css" href="css/animate.css" />
         <style>
 				body {
-				font-family: 'Raleway',sans serif;
+				font-family: 'Alegreya', sans-serif;
 				font-size : 14px;
 				}
 		</style>
