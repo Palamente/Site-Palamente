@@ -49,22 +49,17 @@
 <div class="col-md-12">
 	<dl>
 		<p>
-		<strong>Chemins de croisement</strong> est un projet entre transmission d’une technique à des enfants et mise en jeu de l’art du comédien. Son objectif est de rendre compte de la place de l'artiste dans son travail d'intervention en milieu scolaire.
-		</p><br/>
+		<strong>Chemins de croisement</strong> est un projet entre transmission d’une technique à des enfants et mise en jeu de l’art du comédien. Son objectif est de rendre compte de la place de l'artiste dans son travail d'intervention en milieu scolaire.</p><br/>
 		<p>
-		<strong>Chemins de croisement</strong> propose un échange constant entre l'enseignant, l'enfant et l'artiste impliqué dans un travail de création : au même titre que dans sa pratique, l'enfant découvre le théâtre en regardant l'acteur jouer.
-		</p><br/>
-		<p>
-		Depuis 2004 le travail effectué à Epinay sur Seine (MTD) auprès du jeune public opère dans cette direction. Il donne lieu chaque année à des rencontres entre élèves de différentes écoles autour de petites formes théâtrales imaginées par les comédiens sur des textes d'auteurs contemporains.
-		</p><br/>
-		<p>
-		<strong>Chemins de croisement</strong> se poursuit actuellement dans les écoles, les centres socioculturels, au théâtre avec deux comédiennes, Emmanuelle Danesi et Sabine Larivière. <strong>Coproduction : MTD Epinay sur Seine</strong>
-		</p><br/>
-		<p>L'initiative de ce projet a permis la création d'une pièce de théâtre, commande d'écriture à Jean Gabriel Nordmann qui a reçu l’aide à la création de la SACD- Fondation Beaumarchais. Avec trois comédiens professionnels et  quatre enfants, ayant participé aux ateliers de création menés à Epinay sur Seine.
-		</p><br/>
-		<p>
-			<strong>"Devant l'enfant"</strong> a été joué 40 fois durant la saison 2007-2008 à Epinay sur Seine, à Paris…
-			</p><br/>
+		<strong>Chemins de croisement</strong> propose un échange constant entre l'enseignant, l'enfant et l'artiste impliqué dans un travail de création : au même titre que dans sa pratique, l'enfant découvre le théâtre en regardant l'acteur jouer. </p><br/>
+		
+		<p>Le travail effectué à Epinay sur Seine (MTD) auprès du jeune public opère dans cette direction. Il donne lieu à des rencontres entre élèves de différentes écoles autour de petites formes théâtrales imaginées par les comédiens sur des textes d'auteurs contemporains. </p><br/>
+		
+		<p>L'initiative de ce projet a permis la création d'une pièce de théâtre, commande d'écriture à Jean Gabriel Nordmann qui a reçu l’aide à la création de la SACD- Fondation Beaumarchais. Cette pièce est jouée par  trois comédiens professionnels et quatre enfants, ayant participé aux ateliers de création menés à Epinay sur Seine. </p><br/>
+		
+		<p><strong>Chemins de croisement</strong> a vocation à se poursuivre dans les écoles, les centres socioculturels, au théâtre avec deux comédiennes, Emmanuelle Danesi et Sabine Larivière.  </p><br/>
+		
+		<p><strong>"Devant l'enfant"</strong> a été joué 40 fois durant la saison 2007-2008 à Epinay sur Seine, à Paris…</p><br/> <p>Coproduction : MTD Epinay sur Seine</p><br>
 			<img src="images/chemin_de_croisement/devant enfant.jpg" class="img-fluid" alt="Responsive image">
 			<img src="images/chemin_de_croisement/bulles costumes demo.jpg" class="img-fluid" alt="Responsive image">
 			<img src="images/chemin_de_croisement/2 bulles.jpg" class="img-fluid" alt="Responsive image">
