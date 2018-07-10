@@ -224,7 +224,7 @@ Image credits: unsplash.com
 .btn.btn-hero:hover,
 .btn.btn-hero:focus {
     color: #fff;
-    background-color: rgba(137, 137, 137, 0.83);
+    background-color: rgba(137, 137, 137, 0.42);
     border-color: rgba(255, 255, 255, 0.4);
     outline: none;
     margin: 20px auto;

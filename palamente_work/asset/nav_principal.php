@@ -14,18 +14,18 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
             <li class="animated fadeInLeft">
-                <a href="index.html">Actuellement <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
+                <a href="index.html">Actuellement</a>
             <li class="animated fadeInLeft">
-              <a href="compagnie.html">La Compagnie <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg" style="margin-top:-25px;"/></a>
+              <a href="compagnie.html">La Compagnie</a>
             </li>
             <li class="animated fadeInUp">
-                <a href="spectacle.html">Spectacles <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
+                <a href="spectacle.html">Spectacles</a>
             </li>
             <li class="animated fadeInRight">
-                <a href="projet.html">Créations en cours <br/><br/><input type="image" class="btn-img" src="images/SVG/vague ht.svg" style="margin-top:-25px;"/></a>
+                <a href="projet.html">Créations en cours</a>
             </li>
             <li class="animated fadeInRight">
-                <a href="contact.html#ancre_nav">Contacts <br/><br/><input type="image" class="btn-img" src="images/SVG/vague bas.svg"/></a>
+                <a href="contact.html#ancre_nav">Contacts</a>
             </li>
         </ul>
     </div>

@@ -17,7 +17,7 @@
 <div class="col-md-12">
 <div class="page-header">
     <h1 class="titre">
-        Chemin de croisement
+        Chemins de croisement
     </h1>
 </div>
 
